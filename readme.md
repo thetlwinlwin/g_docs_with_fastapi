@@ -16,3 +16,4 @@ The purpose of this web api is to retrieve content from a document which is from
 - It is wise to disable "**maybe-no-member**" from pylint.
 - exclude doc_id from the setting instance.
 - has to add cors.
+- also add github workflows to automate the CI/CD.
